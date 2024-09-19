@@ -1,1 +1,1 @@
-Header set Access-Control-Allow-Origin "https://draw.gowithai.help"
+Header set Access-Control-Allow-Origin "*"
