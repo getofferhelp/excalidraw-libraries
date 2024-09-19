@@ -98,36 +98,36 @@ const sortBy = {
     },
   },
   new: {
-    label: "New",
+    label: "最新",
     func: (items) => items.sort(sortByDate("created")),
   },
   updates: {
-    label: "Updated",
+    label: "更新",
     func: (items) => items.sort(sortByDate("updated")),
   },
   downloadsTotal: {
-    label: "Total Downloads",
+    label: "总下载量",
     func: (items) =>
       items.sort((a, b) => {
         return a.downloads.total - b.downloads.total;
       }),
   },
   downloadsWeek: {
-    label: "Downloads This Week",
+    label: "本周下载",
     func: (items) =>
       items.sort((a, b) => {
         return a.downloads.week - b.downloads.week;
       }),
   },
   author: {
-    label: "Author",
+    label: "作者姓名",
     func: (items) =>
       items.sort((a, b) => {
         return b.authors[0].name.localeCompare(a.authors[0].name);
       }),
   },
   name: {
-    label: "Name",
+    label: "素材名",
     func: (items) =>
       items.sort((a, b) => {
         return b.name.localeCompare(a.name);
@@ -150,7 +150,7 @@ const getAppName = (referrer) => {
     Object.entries(APP_NAMES).find(([appName, domain]) => {
       return referrer.includes(domain);
     })?.[0] ||
-    "Excalidraw");
+    "画板");
 };
 // -----------------------------------------------------------------------------
 
