@@ -137,9 +137,9 @@ const sortBy = {
 
 // -----------------------------------------------------------------------------
 const APP_NAMES = {
-  "Excalidraw+": "https://app.excalidraw.com",
+  "Excalidraw+": "https://draw.gowithai.help",
   Excalidraw: "https://draw.gowithai.help",
-  Excalideck: "https://app.excalideck.com",
+  Excalideck: "https://draw.gowithai.help",
 };
 
 let appName = "";
