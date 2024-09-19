@@ -145,12 +145,7 @@ const APP_NAMES = {
 let appName = "";
 
 const getAppName = (referrer) => {
-  return (appName =
-    appName ||
-    Object.entries(APP_NAMES).find(([appName, domain]) => {
-      return referrer.includes(domain);
-    })?.[0] ||
-    "画板");
+  return "Gowithai画板";
 };
 // -----------------------------------------------------------------------------
 
