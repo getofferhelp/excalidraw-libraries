@@ -1,7 +1,7 @@
 [
     {
         "name": "R Icons",
-        "description": "中文翻译：r和rstudio图标。\n英文原文：R and RStudio icons.",
+        "description": "r和rstudio图标。",
         "authors": [
             {
                 "name": "Jumping Rivers",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Snowflake datawarehousing Icons",
-        "description": "中文翻译：集合雪花数据瓦馆图标。\n英文原文：Collection of Snowflake datawarehouse icons.",
+        "description": "集合雪花数据瓦馆图标。",
         "authors": [
             {
                 "name": "Thijs de Vries",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Robots",
-        "description": "中文翻译：以不同心情的机器人收集。\n英文原文：Collection of robots in different moods.",
+        "description": "以不同心情的机器人收集。",
         "authors": [
             {
                 "name": "Kaligule",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Polygons",
-        "description": "中文翻译：常规多边形的收集：三角形，五角大楼，六角形，八角形，decagon和Dodecagon。\n英文原文：Collection of regular polygons: triangle, pentagon, hexagon, octagon, decagon & dodecagon.",
+        "description": "常规多边形的收集：三角形，五角大楼，六角形，八角形，decagon和Dodecagon。",
         "authors": [
             {
                 "name": "Lipis",
@@ -65,7 +65,7 @@
     },
     {
         "name": "Stars",
-        "description": "中文翻译：常规星星的收集。\n英文原文：Collection of regular stars.",
+        "description": "常规星星的收集。",
         "authors": [
             {
                 "name": "Lipis",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Gadgets",
-        "description": "中文翻译：技术小工具的收集：智能手机，MP3播放器，智能手表，平板电脑，笔记本电脑。\n英文原文：Collection of technical gadgets: Smartphone, MP3-Player, Smartwatch, Tablet, Laptop.",
+        "description": "技术小工具的收集：智能手机，MP3播放器，智能手表，平板电脑，笔记本电脑。",
         "authors": [
             {
                 "name": "MorgeMoensch",
@@ -97,7 +97,7 @@
     },
     {
         "name": "Android",
-        "description": "中文翻译：集合Android组件。\n英文原文：Collection of Android components.",
+        "description": "集合Android组件。",
         "authors": [
             {
                 "name": "NicolasGoudry@G.Script",
@@ -113,7 +113,7 @@
     },
     {
         "name": "Charts",
-        "description": "中文翻译：图表的收集：条，列，线，派。\n英文原文：Collection of charts: bar, column, line, pie.",
+        "description": "图表的收集：条，列，线，派。",
         "authors": [
             {
                 "name": "NicolasGoudry@G.Script",
@@ -129,7 +129,7 @@
     },
     {
         "name": "Forms",
-        "description": "中文翻译：组件的集合。\n英文原文：Collection of form components.",
+        "description": "组件的集合。",
         "authors": [
             {
                 "name": "NicolasGoudry@G.Script",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Medias",
-        "description": "中文翻译：与媒体相关的组件集合的收集：封面，视频播放器，播放控件，音量滑块，街道地图，网络摄像头。\n英文原文：Collection of components related to media: coverflow, video player, playback controls, volume slider, street map, webcam.",
+        "description": "与媒体相关的组件集合的收集：封面，视频播放器，播放控件，音量滑块，街道地图，网络摄像头。",
         "authors": [
             {
                 "name": "NicolasGoudry@G.Script",
@@ -161,7 +161,7 @@
     },
     {
         "name": "Raspberry Pi 3",
-        "description": "中文翻译：覆盆子Pi 3标头组件。\n英文原文：A Raspberry Pi 3 header component.",
+        "description": "覆盆子Pi 3标头组件。",
         "authors": [
             {
                 "name": "revolunet",
@@ -177,7 +177,7 @@
     },
     {
         "name": "Stick Figures",
-        "description": "中文翻译：棍子的收集。\n英文原文：Collection of stick figures.",
+        "description": "棍子的收集。",
         "authors": [
             {
                 "name": "Youri Tjang",
@@ -206,7 +206,7 @@
     },
     {
         "name": "Data Viz",
-        "description": "中文翻译：数据可视化中常用的图表收集。\n英文原文：Collection of charts commonly used in data visualisations.",
+        "description": "数据可视化中常用的图表收集。",
         "authors": [
             {
                 "name": "dbs-sticky",
@@ -222,7 +222,7 @@
     },
     {
         "name": "Hearts",
-        "description": "中文翻译：收集心。\n英文原文：Collection of hearts.",
+        "description": "收集心。",
         "authors": [
             {
                 "name": "dwelle",
@@ -238,7 +238,7 @@
     },
     {
         "name": "Apple Devices Frames",
-        "description": "中文翻译：用于Apple移动设备（iPhone，iPad，Apple Watch）的尺寸准确框架的收集。\n英文原文：Collection of size-accurate frames for Apple mobile devices (iPhone, iPad, Apple Watch).",
+        "description": "用于Apple移动设备（iPhone，iPad，Apple Watch）的尺寸准确框架的收集。",
         "authors": [
             {
                 "name": "François Best",
@@ -254,7 +254,7 @@
     },
     {
         "name": "Software Architecture",
-        "description": "中文翻译：软件体系结构组件的收集：微服务，数据库，缓存，事件总线或管道，文档或代码，浏览器和移动设备\n英文原文：Collection of software architecture components: microservice, database, cache, event bus or pipeline, documents or code, browser, and mobile device",
+        "description": "软件体系结构组件的收集：微服务，数据库，缓存，事件总线或管道，文档或代码，浏览器和移动设备",
         "authors": [
             {
                 "name": "Youri Tjang",
@@ -270,7 +270,7 @@
     },
     {
         "name": "Dropdowns",
-        "description": "中文翻译：收集下拉菜。\n英文原文：Collection of dropdowns.",
+        "description": "收集下拉菜。",
         "authors": [
             {
                 "name": "Arun",
@@ -286,7 +286,7 @@
     },
     {
         "name": "Information Architecture",
-        "description": "中文翻译：杰西·詹姆斯·加勒特（Jesse James Garrett）的视觉词汇描述信息架构和互动设计。\n英文原文：A visual vocabulary for describing information architecture and interaction design, by Jesse James Garrett.",
+        "description": "杰西·詹姆斯·加勒特（Jesse James Garrett）的视觉词汇描述信息架构和互动设计。",
         "authors": [
             {
                 "name": "inwardmovement",
@@ -323,7 +323,7 @@
     },
     {
         "name": "IT Logos",
-        "description": "中文翻译：IT徽标的集合，包括用于构建Web应用程序的语言，框架和工具。\n英文原文：A collection of IT logos, including languages, frameworks and tools for building web applications.",
+        "description": "IT徽标的集合，包括用于构建Web应用程序的语言，框架和工具。",
         "authors": [
             {
                 "name": "Pierre Clainchard",
@@ -374,7 +374,7 @@
     },
     {
         "name": "Mobile Kit",
-        "description": "中文翻译：一系列常用的移动屏幕。\n英文原文：A collection of commonly used mobile screens.",
+        "description": "一系列常用的移动屏幕。",
         "authors": [
             {
                 "name": "Sunit Shirke",
@@ -390,7 +390,7 @@
     },
     {
         "name": "Web Kit",
-        "description": "中文翻译：一组常用的Web组件。\n英文原文：A collection of commonly used web components.",
+        "description": "一组常用的Web组件。",
         "authors": [
             {
                 "name": "Sunit Shirke",
@@ -406,7 +406,7 @@
     },
     {
         "name": "Software Logos",
-        "description": "中文翻译：软件体系结构徽标：档案，数据库，Docker，JSON，Kubernetes，Load Balancer，Postgres，Redis，nginx，RabbitMQ，Server，Server，Chip，Reverse Proxy等。\n英文原文：Software architecture logos: archive, database, docker, JSON, Kubernetes, load balancer, Postgres, Redis, Nginx, RabbitMQ, server, chip, reverse proxy, and more.",
+        "description": "软件体系结构徽标：档案，数据库，Docker，JSON，Kubernetes，Load Balancer，Postgres，Redis，nginx，RabbitMQ，Server，Server，Chip，Reverse Proxy等。",
         "authors": [
             {
                 "name": "drwn.io",
@@ -422,7 +422,7 @@
     },
     {
         "name": "Technology Logos",
-        "description": "中文翻译：技术徽标的收集主要来自云原生空间。特色：Kubernetes，Docker，Git，Cloud Foundry，Terraform，Spring，Quarkus，Micronaut，Knative，Camunda，Camunda，Azure，Kafka，Kotlin，Kotlin，OpenStack，paketo.io，neo4j，redis，redis\n英文原文：Collection of technology logos mostly from the cloud-native space. Featuring: Kubernetes, Docker, git, Cloud Foundry, Terraform, Spring, Quarkus, Micronaut, Knative, Camunda, Azure, Kafka, Kotlin, OpenStack, paketo.io, Neo4J, Redis",
+        "description": "技术徽标的收集主要来自云原生空间。特色：Kubernetes，Docker，Git，Cloud Foundry，Terraform，Spring，Quarkus，Micronaut，Knative，Camunda，Camunda，Azure，Kafka，Kotlin，Kotlin，OpenStack，paketo.io，neo4j，redis，redis",
         "authors": [
             {
                 "name": "Matthias Haeussler",
@@ -438,7 +438,7 @@
     },
     {
         "name": "Storytelling",
-        "description": "中文翻译：代表情绪或任何您想要的图纸。非常适合在图表中添加一些乐趣或故事。\n英文原文：Drawings representing emotions or whatever you want. Perfect to add some fun or stories to your diagrams.",
+        "description": "代表情绪或任何您想要的图纸。非常适合在图表中添加一些乐趣或故事。",
         "authors": [
             {
                 "name": "drwn.io",
@@ -454,7 +454,7 @@
     },
     {
         "name": "Cryptocurrencies",
-        "description": "中文翻译：顶级加密货币：比特币，以太坊，系绳，Polkadot，XRP，Cardano，Chainlink，litecoin，Bitcoin Cash，Binance Coin，Iota\n英文原文：Top cryptocurrencies: Bitcoin, Ethereum, Tether, Polkadot, XRP, Cardano, Chainlink, Litecoin, Bitcoin Cash, Binance Coin, IOTA",
+        "description": "顶级加密货币：比特币，以太坊，系绳，Polkadot，XRP，Cardano，Chainlink，litecoin，Bitcoin Cash，Binance Coin，Iota",
         "authors": [
             {
                 "name": "newbyca",
@@ -470,7 +470,7 @@
     },
     {
         "name": "Raspberry Pi Zero",
-        "description": "中文翻译：覆盆子pi零标题组件。\n英文原文：A Raspberry Pi Zero header component.",
+        "description": "覆盆子pi零标题组件。",
         "authors": [
             {
                 "name": "marcottebear",
@@ -486,7 +486,7 @@
     },
     {
         "name": "Presentation Templates",
-        "description": "中文翻译：标准维度的空白PowerPoint演示模板。用于创建演示大纲。\n英文原文：Blank Powerpoint Presentation templates of standard dimensions. Use to create presentation outlines.",
+        "description": "标准维度的空白PowerPoint演示模板。用于创建演示大纲。",
         "authors": [
             {
                 "name": "Shin Kim",
@@ -502,7 +502,7 @@
     },
     {
         "name": "Graphs",
-        "description": "中文翻译：流行图的可视化集合。\n英文原文：A collection of visualisations of popular graphs.",
+        "description": "流行图的可视化集合。",
         "authors": [
             {
                 "name": "Jakub Pawlina",
@@ -518,7 +518,7 @@
     },
     {
         "name": "Desktop Resolutions",
-        "description": "中文翻译：常见分辨率的空白桌面框架。用于线框桌面应用程序。\n英文原文：Blank desktop frames of common resolutions. Use to wireframe desktop apps.",
+        "description": "常见分辨率的空白桌面框架。用于线框桌面应用程序。",
         "authors": [
             {
                 "name": "Shin Kim",
@@ -534,7 +534,7 @@
     },
     {
         "name": "Lo-Fi Wireframing Kit",
-        "description": "中文翻译：Lo-Fi线帧组件的集合。\n英文原文：A collection of Lo-Fi wireframing components.",
+        "description": "Lo-Fi线帧组件的集合。",
         "authors": [
             {
                 "name": "Aleksandra Lazovic",
@@ -550,7 +550,7 @@
     },
     {
         "name": "Cloud Design Patterns",
-        "description": "中文翻译：云设计模式组件的集合（如https://docs.microsoft.com/en-us/azure/architecture/architecture/patterns/）。用于描述云应用程序概念。\n英文原文：A collection of cloud design patterns components (as defined in https://docs.microsoft.com/en-us/azure/architecture/patterns/). Use to describe cloud applications concepts.",
+        "description": "云设计模式组件的集合（如https://docs.microsoft.com/en-us/azure/architecture/architecture/patterns/）。用于描述云应用程序概念。",
         "authors": [
             {
                 "name": "Michel Caradec",
@@ -566,7 +566,7 @@
     },
     {
         "name": "AWS Serverless Icons",
-        "description": "中文翻译：AWS无服务器服务的图标集合。该集合包含以下服务的图标：lambda，api网关，appsync，dynamodb，eventbridge，cognito，s3，kinesis，kinesis，sns，sqs，ses，ses，ses，cloudfront，cloudwatch，cloudwatch，step函数和放大。\n英文原文：A collection of icons of AWS serverless services. This collection contains the icons of the following services: Lambda, API Gateway, AppSync, DynamoDB, EventBridge, Cognito, S3, Kinesis, SNS, SQS, SES, CloudFront, CloudWatch, Step Functions and Amplify.",
+        "description": "AWS无服务器服务的图标集合。该集合包含以下服务的图标：lambda，api网关，appsync，dynamodb，eventbridge，cognito，s3，kinesis，kinesis，sns，sqs，ses，ses，ses，cloudfront，cloudwatch，cloudwatch，step函数和放大。",
         "authors": [
             {
                 "name": "Slobodan Stojanović",
@@ -582,7 +582,7 @@
     },
     {
         "name": "Wardley Maps Symbols",
-        "description": "中文翻译：Wardley地图组件和符号的集合。它包含以下符号：组件演化轮廓，组件，客户，加速器，组件管道，内部构建，架子上的架子，外包组件类型，生态系统ILC和感兴趣的领域。\n英文原文：A collection of Wardley Maps components and symbols. It contains symbols for: the Component Evolution Outline, Component, Customer, Accelerator, Component Pipeline, Build in-house, Off the Shelf, Outsource component types, Ecosystem ILC and Areas of Interest.",
+        "description": "Wardley地图组件和符号的集合。它包含以下符号：组件演化轮廓，组件，客户，加速器，组件管道，内部构建，架子上的架子，外包组件类型，生态系统ILC和感兴趣的领域。",
         "authors": [
             {
                 "name": "Aleksandar Simović",
@@ -598,7 +598,7 @@
     },
     {
         "name": "Bubbles",
-        "description": "中文翻译：简单的语音和思想气泡的集合。\n英文原文：A collection of simple speech and thought bubbles.",
+        "description": "简单的语音和思想气泡的集合。",
         "authors": [
             {
                 "name": "Oscar Capraro",
@@ -614,7 +614,7 @@
     },
     {
         "name": "Business Model Templates",
-        "description": "中文翻译：一系列可以用于建模各种业务方面的画布的模板。以下画布在此集合中：商业模型画布，价值命题画布。\n英文原文：A collection of templates for canvases that can be used to model various business aspects. The following canvases are in this collection: Business Model Canvas, Value Proposition Canvas.",
+        "description": "一系列可以用于建模各种业务方面的画布的模板。以下画布在此集合中：商业模型画布，价值命题画布。",
         "authors": [
             {
                 "name": "Stephan Hellerbrand",
@@ -630,7 +630,7 @@
     },
     {
         "name": "Veeam",
-        "description": "中文翻译：用于IT架构设计文档的图标集合，包括Veeam备份组件。\n英文原文：A collection of icons used for IT architecture design documents including Veeam backup components.",
+        "description": "用于IT架构设计文档的图标集合，包括Veeam备份组件。",
         "authors": [
             {
                 "name": "Joe Houghes",
@@ -646,7 +646,7 @@
     },
     {
         "name": "Data Science logos",
-        "description": "中文翻译：数据科学工具图标的集合。插入：气流，jupyter，pandas，numpy，tensorflow，scikit-learn，keras。\n英文原文：A collection of data science tool icons. Inlcuding: Airflow, Jupyter, Pandas, Numpy, Tensorflow, Scikit-learn, Keras.",
+        "description": "数据科学工具图标的集合。插入：气流，jupyter，pandas，numpy，tensorflow，scikit-learn，keras。",
         "authors": [
             {
                 "name": "Fares Hasan",
@@ -666,7 +666,7 @@
     },
     {
         "name": "Arduino Boards",
-        "description": "中文翻译：五个Arduino董事会的集合：Uno，Uno-Clone，Nano，Leonardo和Mega。图纸的大小，以便将其折断到网格时，线条和箭头将捕捉到连接。\n英文原文：A collection of five Arduino boards: Uno, Uno-clone, Nano, Leonardo, and Mega. The drawings are sized so that when snapped to the grid, lines and arrows will snap to the connections.",
+        "description": "五个Arduino董事会的集合：Uno，Uno-Clone，Nano，Leonardo和Mega。图纸的大小，以便将其折断到网格时，线条和箭头将捕捉到连接。",
         "authors": [
             {
                 "name": "rkjc",
@@ -682,7 +682,7 @@
     },
     {
         "name": "Schematic Symbols",
-        "description": "中文翻译：共同电气示意图符号的集合。图纸的大小，以便将其折断到网格时，线条和箭头将捕捉到连接。（提示：旋转时保持轮班）\n英文原文：A collection of common electrical schematic wiring diagram symbols. The drawings are sized so that when snapped to the grid, lines and arrows will snap to the connections. (hint: hold shift while rotating)",
+        "description": "共同电气示意图符号的集合。图纸的大小，以便将其折断到网格时，线条和箭头将捕捉到连接。（提示：旋转时保持轮班）",
         "authors": [
             {
                 "name": "rkjc",
@@ -698,7 +698,7 @@
     },
     {
         "name": "Cloud",
-        "description": "中文翻译：与云工具有关的符号（Kubernetes，Gardener，AWS，Azure，GCP和图标的徽标）的收集。\n英文原文：Collection of symbols related to cloud artefacts (logos of Kubernetes, Gardener, AWS, Azure, GCP and icons for illustrating architectures).",
+        "description": "与云工具有关的符号（Kubernetes，Gardener，AWS，Azure，GCP和图标的徽标）的收集。",
         "authors": [
             {
                 "name": "rfranzke",
@@ -714,7 +714,7 @@
     },
     {
         "name": "HTML, CSS and JS logos",
-        "description": "中文翻译：核心网络开发技术徽标的集合\n英文原文：A collection of core web development technology logos",
+        "description": "核心网络开发技术徽标的集合",
         "authors": [
             {
                 "name": "Madhusuthanan-B",
@@ -730,7 +730,7 @@
     },
     {
         "name": "Emojis",
-        "description": "中文翻译：表情符号的集合。\n英文原文：A collection of emojis.",
+        "description": "表情符号的集合。",
         "authors": [
             {
                 "name": "Anumitha Apollo",
@@ -746,7 +746,7 @@
     },
     {
         "name": "Redis Grafana",
-        "description": "中文翻译：Redis和Grafana相关图标的集合：Redis，Redis Enterprise，Grafana，Prometheus，Redisgraph，RedisGears，ReDistimeseries等。\n英文原文：A collection of Redis and Grafana related icons: Redis, Redis Enterprise, Grafana, Prometheus, RedisGraph, RedisGears, RedisTimeSeries, etc.",
+        "description": "Redis和Grafana相关图标的集合：Redis，Redis Enterprise，Grafana，Prometheus，Redisgraph，RedisGears，ReDistimeseries等。",
         "authors": [
             {
                 "name": "mikhailredis",
@@ -762,7 +762,7 @@
     },
     {
         "name": "AWS Simple Icons",
-        "description": "中文翻译：AWS简单图标的集合，具有3种不同的口味（单色，颜色和描述）：EC2，RDS，S3，SQS和Lambda。更快即将到来...\n英文原文：A collection of AWS Simple Icons with 3 different flavours (Monochrome, Colour and Colour with description): EC2, RDS, S3, SQS and Lambda. More coming soon...",
+        "description": "AWS简单图标的集合，具有3种不同的口味（单色，颜色和描述）：EC2，RDS，S3，SQS和Lambda。更快即将到来...",
         "authors": [
             {
                 "name": "husainkhambaty",
@@ -778,7 +778,7 @@
     },
     {
         "name": "Computers",
-        "description": "中文翻译：计算机的一些示意图\n英文原文：A few schematic representations of computers",
+        "description": "计算机的一些示意图",
         "authors": [
             {
                 "name": "EI d'AU",
@@ -794,7 +794,7 @@
     },
     {
         "name": "Front End Tools & Technologies",
-        "description": "中文翻译：与前端技术，工具和站点有关的徽标集合。\n英文原文：A collection of logos related to front end technologies, tools and sites.",
+        "description": "与前端技术，工具和站点有关的徽标集合。",
         "authors": [
             {
                 "name": "Madhusuthanan-B",
@@ -810,7 +810,7 @@
     },
     {
         "name": "Architecture floor plan symbols",
-        "description": "中文翻译：有些家具其他符号可以帮助建筑规划\n英文原文：Some furnitures an others symbols to help in architecture planning",
+        "description": "有些家具其他符号可以帮助建筑规划",
         "authors": [
             {
                 "name": "Arqtangeles",
@@ -826,7 +826,7 @@
     },
     {
         "name": "Team Topologies",
-        "description": "中文翻译：形状收集以描述您组织的团队拓扑（如https://teamtopologies.com定义）\n英文原文：Collection of shapes to describe your organization's Team Topology (as defined by https://teamtopologies.com)",
+        "description": "形状收集以描述您组织的团队拓扑（如https://teamtopologies.com定义）",
         "authors": [
             {
                 "name": "Nikordaris",
@@ -842,7 +842,7 @@
     },
     {
         "name": "Azure cloud services icons",
-        "description": "中文翻译：来自不同Azure Cloud Services的图标收集。\n英文原文：Collection of icons from different Azure cloud services.",
+        "description": "来自不同Azure Cloud Services的图标收集。",
         "authors": [
             {
                 "name": "Youri Tjang",
@@ -887,7 +887,7 @@
     },
     {
         "name": "Music Instruments",
-        "description": "中文翻译：键盘，鼓，长笛，拍手，音符，收音机和斑点等乐器的收集。\n英文原文：collection of instruments like keyboard, drums, flute, clapbox, Musical notes, Radio and Specker.",
+        "description": "键盘，鼓，长笛，拍手，音符，收音机和斑点等乐器的收集。",
         "authors": [
             {
                 "name": "Aravindhan Ravi",
@@ -903,7 +903,7 @@
     },
     {
         "name": "Customer Journey Map",
-        "description": "中文翻译：为了创建自己的客户旅程图，它具有小型和大模板。\n英文原文：For creating your own Customer Journey Map, it has small and big templates.",
+        "description": "为了创建自己的客户旅程图，它具有小型和大模板。",
         "authors": [
             {
                 "name": "Wiktoria Mielcarek / Braweria",
@@ -919,7 +919,7 @@
     },
     {
         "name": "Sticky Notes",
-        "description": "中文翻译：以各种颜色发布其设计思维会话。\n英文原文：Post its in every color for your design thinking sessions.",
+        "description": "以各种颜色发布其设计思维会话。",
         "authors": [
             {
                 "name": "ferminrp",
@@ -935,7 +935,7 @@
     },
     {
         "name": "Gantt Diagram",
-        "description": "中文翻译：您可以用来计划项目的甘特图模板。\n英文原文：A Gantt diagram template you can use to plan your projects.",
+        "description": "您可以用来计划项目的甘特图模板。",
         "authors": [
             {
                 "name": "ferminrp",
@@ -951,7 +951,7 @@
     },
     {
         "name": "NSX-T VMware",
-        "description": "中文翻译：用于设计文档的图标集合，包括NSX-T VMware组件。runnsx\n英文原文：A collection of icons used for design documents including NSX-T VMware components. RunNSX",
+        "description": "用于设计文档的图标集合，包括NSX-T VMware组件。runnsx",
         "authors": [
             {
                 "name": "Karel Novak",
@@ -967,7 +967,7 @@
     },
     {
         "name": "Basic shapes",
-        "description": "中文翻译：简单图纸的基本形状。\n英文原文：Basic shapes for simple drawings.",
+        "description": "简单图纸的基本形状。",
         "authors": [
             {
                 "name": "Pablo Gil Fernández",
@@ -983,7 +983,7 @@
     },
     {
         "name": "Chess set",
-        "description": "中文翻译：国际象棋板和碎片\n英文原文：Chess board and pieces",
+        "description": "国际象棋板和碎片",
         "authors": [
             {
                 "name": "Pret Bram",
@@ -999,7 +999,7 @@
     },
     {
         "name": "Random figure drawings",
-        "description": "中文翻译：徽标的随机图纸等等。\n英文原文：Random figure drawings for logos and much more.",
+        "description": "徽标的随机图纸等等。",
         "authors": [
             {
                 "name": "Vasudevatirupathinaidu",
@@ -1015,7 +1015,7 @@
     },
     {
         "name": "Scrum board",
-        "description": "中文翻译：敏捷开发板\n英文原文：Scrum board for agile development",
+        "description": "敏捷开发板",
         "authors": [
             {
                 "name": "Daniel Cortés Pichardo",
@@ -1031,7 +1031,7 @@
     },
     {
         "name": "Common Screen Resolutions",
-        "description": "中文翻译：各种尺寸的屏幕框架\n英文原文：Frames for screens of various sizes",
+        "description": "各种尺寸的屏幕框架",
         "authors": [
             {
                 "name": "dpalay",
@@ -1047,7 +1047,7 @@
     },
     {
         "name": "Awesome Slides",
-        "description": "中文翻译：越来越多的模板集为您的下一个演示文稿。\n英文原文：A growing collection of templates for your next presentation.",
+        "description": "越来越多的模板集为您的下一个演示文稿。",
         "authors": [
             {
                 "name": "ferminrp",
@@ -1063,7 +1063,7 @@
     },
     {
         "name": "Awesome Icons",
-        "description": "中文翻译：越来越多的收藏来做您想要的图标。\n英文原文：A growing collection of do whatever you want icons.",
+        "description": "越来越多的收藏来做您想要的图标。",
         "authors": [
             {
                 "name": "ferminrp",
@@ -1079,7 +1079,7 @@
     },
     {
         "name": "Shapes for UML & ER Diagrams",
-        "description": "中文翻译：用于UML和ER图的自以为是的形状选择。\n英文原文：An opinionated selection of shapes for UML & ER diagrams.",
+        "description": "用于UML和ER图的自以为是的形状选择。",
         "authors": [
             {
                 "name": "BjoernKW",
@@ -1095,7 +1095,7 @@
     },
     {
         "name": "Decision flow control",
-        "description": "中文翻译：是/否条件盒用于图解。\n英文原文：Yes/no condition boxes for diagramming.",
+        "description": "是/否条件盒用于图解。",
         "authors": [
             {
                 "name": "James Wiens",
@@ -1111,7 +1111,7 @@
     },
     {
         "name": "System Design Template",
-        "description": "中文翻译：一种标准结构和过程，用于有效地创建使用填充空白组件的系统设计。\n英文原文：A standard structure and process for efficiently creating system designs with fill-in-the blank components.",
+        "description": "一种标准结构和过程，用于有效地创建使用填充空白组件的系统设计。",
         "authors": [
             {
                 "name": "James Wiens",
@@ -1127,7 +1127,7 @@
     },
     {
         "name": "Yellow box",
-        "description": "中文翻译：打开黄色盒子\n英文原文：Opened yellow box",
+        "description": "打开黄色盒子",
         "authors": [
             {
                 "name": "Ivan Reznikov",
@@ -1143,7 +1143,7 @@
     },
     {
         "name": "Veeam unofficial",
-        "description": "中文翻译：来自我们都知道和喜欢的Veeam Visio形状启发的非官方图标集合。\n英文原文：A collection of unofficial icons inspired from the Veeam Visio shapes we all know and like.",
+        "description": "来自我们都知道和喜欢的Veeam Visio形状启发的非官方图标集合。",
         "authors": [
             {
                 "name": "Jorge de la Cruz",
@@ -1159,7 +1159,7 @@
     },
     {
         "name": "Dev Ops Icons",
-        "description": "中文翻译：用于开发运营工作的图标集合，包括Hashistack：Nomad，Consul，Vault和Packer；Rundeck，Ansible，Jira，Vscode，Elasticsearch，Ubuntu，Teams，Thanos，Traefik，Loki，Kubernetes，OpenShift，Docker，Docker，Terraform，Terraform，Slurm，Slurm，Conflucence，Github，Openfaas和Gitea，Gitea和Gitea，Gitea和Gitea\n英文原文：A collection of icons for Dev Ops work, including the hashistack: Nomad, Consul, Vault and Packer; Rundeck, Ansible, Jira, VScode, Elasticsearch, Ubuntu, Teams, Thanos, Traefik, Loki, Kubernetes, Openshift, Docker, Terraform, Slurm, Confluence, Github Actions, OpenFaaS and Gitea",
+        "description": "用于开发运营工作的图标集合，包括Hashistack：Nomad，Consul，Vault和Packer；Rundeck，Ansible，Jira，Vscode，Elasticsearch，Ubuntu，Teams，Thanos，Traefik，Loki，Kubernetes，OpenShift，Docker，Docker，Terraform，Terraform，Slurm，Slurm，Conflucence，Github，Openfaas和Gitea，Gitea和Gitea，Gitea和Gitea",
         "authors": [
             {
                 "name": "Mark Sharpley",
@@ -1175,7 +1175,7 @@
     },
     {
         "name": "Hexagonal Architecture",
-        "description": "中文翻译：对于图表和进一步的图表和更多信息，请访问Alistair Cockburn和Jakub Nabrdalik的实施，以了解有关六角形（又名端口和适配器）架构。更多信息：https：//gist.github.com/corlaez/32707A1C41485D056C00251206435C89\n英文原文：Useful to diagram and learn more about Hexagonal (aka Ports and Adapters) Architecture by Alistair Cockburn and implementation by Jakub Nabrdalik. More information: https://gist.github.com/corlaez/32707a1c41485d056c00251206435c89",
+        "description": "对于图表和进一步的图表和更多信息，请访问Alistair Cockburn和Jakub Nabrdalik的实施，以了解有关六角形（又名端口和适配器）架构。更多信息：https：//gist.github.com/corlaez/32707A1C41485D056C00251206435C89",
         "authors": [
             {
                 "name": "Armando Cordova Pelaez",
@@ -1191,7 +1191,7 @@
     },
     {
         "name": "Arduino Micro",
-        "description": "中文翻译：Arduino微板\n英文原文：Arduino Micro board",
+        "description": "Arduino微板",
         "authors": [
             {
                 "name": "Jason Coelho",
@@ -1207,7 +1207,7 @@
     },
     {
         "name": "Logic Gates",
-        "description": "中文翻译：大小的基本逻辑门集合，以使输入和输出线捕捉到网格。\n英文原文：A collection of basic logic gates that are sized such that the input and output lines snap to grid.",
+        "description": "大小的基本逻辑门集合，以使输入和输出线捕捉到网格。",
         "authors": [
             {
                 "name": "Bhargav Modak",
@@ -1223,7 +1223,7 @@
     },
     {
         "name": "Periodic Table",
-        "description": "中文翻译：周期性表。\n英文原文：A periodic table.",
+        "description": "周期性表。",
         "authors": [
             {
                 "name": "gabi-as-cosmos",
@@ -1239,7 +1239,7 @@
     },
     {
         "name": "System Design Components",
-        "description": "中文翻译：组件在访谈和其他地方有用，可构建高级系统图。\n英文原文：Components useful in interviews and elsewhere to build high-level system diagrams.",
+        "description": "组件在访谈和其他地方有用，可构建高级系统图。",
         "authors": [
             {
                 "name": "Rohan Pithadiya",
@@ -1255,7 +1255,7 @@
     },
     {
         "name": "Maps",
-        "description": "中文翻译：Google地图样式的基本地图组件。一个带有位置引脚和一组位置引脚的。\n英文原文：Basic map components in style of Google Maps. One with location pins and set of location pins included.",
+        "description": "Google地图样式的基本地图组件。一个带有位置引脚和一组位置引脚的。",
         "authors": [
             {
                 "name": "swissarmysam",
@@ -1271,7 +1271,7 @@
     },
     {
         "name": "GitHub Git Icons",
-        "description": "中文翻译：用于教育目的的基本github图标。这些图标包括git分支，git commit，比较，git合并，拉请请求，扣除请求和拉请求草稿\n英文原文：Basic GitHub Icons for educational purposes. The icons include git branch, git commit, compare, git merge, pull request, pull request closed, and pull request draft",
+        "description": "用于教育目的的基本github图标。这些图标包括git分支，git commit，比较，git合并，拉请请求，扣除请求和拉请求草稿",
         "authors": [
             {
                 "name": "marwinburesch",
@@ -1287,7 +1287,7 @@
     },
     {
         "name": "Some more logos",
-        "description": "中文翻译：Android，Windows，Linux，Kong，让我们加密，KeyCloak，Salesforce和Azure徽标\n英文原文：Android, Windows, Linux, Kong, Let's Encrypt, Keycloak, Salesforce and Azure logo",
+        "description": "Android，Windows，Linux，Kong，让我们加密，KeyCloak，Salesforce和Azure徽标",
         "authors": [
             {
                 "name": "esteevens",
@@ -1313,7 +1313,7 @@
     },
     {
         "name": "Clocks",
-        "description": "中文翻译：各种时钟：壁挂式，手表和闹钟。\n英文原文：An assortment of clocks: wall-mounted, wristwatch, and alarm clock.",
+        "description": "各种时钟：壁挂式，手表和闹钟。",
         "authors": [
             {
                 "name": "Aleksandr Hovhannisyan",
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "Database",
-        "description": "中文翻译：图标和图形集合，用于在云和本地中绘制数据库基础架构。最初是为Oracle数据库创建的，以绘制实验室环境，数据库安全性和备份和恢复用例。\n英文原文：A collection of icons and graphics for drawing database infrastructures in the cloud and on-premises. Initially created for Oracle databases to draw Lab environments, DB Security and Backup & Recovery use cases.",
+        "description": "图标和图形集合，用于在云和本地中绘制数据库基础架构。最初是为Oracle数据库创建的，以绘制实验室环境，数据库安全性和备份和恢复用例。",
         "authors": [
             {
                 "name": "Stefan Oehrli",
@@ -1352,7 +1352,7 @@
     },
     {
         "name": "System Design Icons",
-        "description": "中文翻译：用于系统设计场景的通用组件\n英文原文：Generic components for use for a system design scenario",
+        "description": "用于系统设计场景的通用组件",
         "authors": [
             {
                 "name": "niknm",
@@ -1375,7 +1375,7 @@
     },
     {
         "name": "Baby Characters",
-        "description": "中文翻译：著名婴儿角色的图纸。\n这些图是基于Pinterest和Howtodrawforkids.com图像。\n英文原文：Drawings of famous baby characters.\nThe drawings were based on Pinterest and howtodrawforkids.com images.",
+        "description": "著名婴儿角色的图纸。\n这些图是基于Pinterest和Howtodrawforkids.com图像。",
         "authors": [
             {
                 "name": "Ana",
@@ -1399,7 +1399,7 @@
     },
     {
         "name": "Some common cloud apps",
-        "description": "中文翻译：通用Web应用程序的库。\n英文原文：Library of common web applications.",
+        "description": "通用Web应用程序的库。",
         "authors": [
             {
                 "name": "Shane Williams",
@@ -1434,7 +1434,7 @@
     },
     {
         "name": "AWS Architecture Icons",
-        "description": "中文翻译：AWS图标的集合\n英文原文：A collection of AWS Icons",
+        "description": "AWS图标的集合",
         "authors": [
             {
                 "name": "Narhari Motivaras",
@@ -1458,7 +1458,7 @@
     },
     {
         "name": "Network topology icons",
-        "description": "中文翻译：几个最常见的网络拓扑图标。\n英文原文：Several of the most common network topology icons.",
+        "description": "几个最常见的网络拓扑图标。",
         "authors": [
             {
                 "name": "dwelle",
@@ -1488,7 +1488,7 @@
     },
     {
         "name": "Systems Design Components",
-        "description": "中文翻译：简单的库来帮助系统设计\n英文原文：Simple library to help with Systems Design",
+        "description": "简单的库来帮助系统设计",
         "authors": [
             {
                 "name": "Arach Tchoupani",
@@ -1514,7 +1514,7 @@
     },
     {
         "name": "Medicine",
-        "description": "中文翻译：我在研究医学时用来视觉表示对象的模板\n英文原文：Stencils that I used to visually represent objects when studying medicine",
+        "description": "我在研究医学时用来视觉表示对象的模板",
         "authors": [
             {
                 "name": "Ernest Noah",
@@ -1538,7 +1538,7 @@
     },
     {
         "name": "3D Shapes",
-        "description": "中文翻译：几个3D形状\n英文原文：A couple of 3D shapes",
+        "description": "几个3D形状",
         "authors": [
             {
                 "name": "Andre Costa",
@@ -1560,7 +1560,7 @@
     },
     {
         "name": "Mathematical Symbols",
-        "description": "中文翻译：数学中常用的符号。符号设计为在Virgil（手写）字体中的文字旁边看起来不错。\n英文原文：Commonly-used symbols in mathematics. Symbols are designed to look good next to text in the Virgil (hand-writing) font.",
+        "description": "数学中常用的符号。符号设计为在Virgil（手写）字体中的文字旁边看起来不错。",
         "authors": [
             {
                 "name": "J-J",
@@ -1595,7 +1595,7 @@
     },
     {
         "name": "Digital Signal Processing",
-        "description": "中文翻译：一组用于数字信号处理的操作块\n英文原文：A set of operation blocks for digital signal processing",
+        "description": "一组用于数字信号处理的操作块",
         "authors": [
             {
                 "name": "Robin Müller",
@@ -1623,7 +1623,7 @@
     },
     {
         "name": "Math Teacher Library",
-        "description": "中文翻译：该库的设计旨在包括一些常见的日常图表，这些图表在使用Excalidraw网站时会很有帮助。\n英文原文：This library has been designed to include some of the common day-to-day diagrams that a math teacher would find helpful when using the Excalidraw site.",
+        "description": "该库的设计旨在包括一些常见的日常图表，这些图表在使用Excalidraw网站时会很有帮助。",
         "authors": [
             {
                 "name": "Yatrik Patel",
@@ -1655,7 +1655,7 @@
     },
     {
         "name": "Icons",
-        "description": "中文翻译：图标库\n英文原文：an icon library",
+        "description": "图标库",
         "authors": [
             {
                 "name": "xxxDeveloper",
@@ -1740,7 +1740,7 @@
     },
     {
         "name": "GCP Icons",
-        "description": "中文翻译：Google Cloud Platform产品图标。\n英文原文：Google Cloud Platform product icons.",
+        "description": "Google Cloud Platform产品图标。",
         "authors": [
             {
                 "name": "Clément Bosc",
@@ -1759,7 +1759,7 @@
     },
     {
         "name": "System Icons",
-        "description": "中文翻译：一些系统图标\n英文原文：Some system icons",
+        "description": "一些系统图标",
         "authors": [
             {
                 "name": "xxxDeveloper",
@@ -1803,7 +1803,7 @@
     },
     {
         "name": "Red Hat",
-        "description": "中文翻译：红帽产品图标\n英文原文：Red Hat product icons",
+        "description": "红帽产品图标",
         "authors": [
             {
                 "name": "Adel Zaalouk",
@@ -1832,7 +1832,7 @@
     },
     {
         "name": "IT Logos",
-        "description": "中文翻译：一些IT徽标：MySQL，PHP，Jenkins，Tomcat，Bower，NPM，Red Hat\n英文原文：Some IT logos: MySQL, PHP, Jenkins, Tomcat, Bower, npm, Red Hat",
+        "description": "一些IT徽标：MySQL，PHP，Jenkins，Tomcat，Bower，NPM，Red Hat",
         "authors": [
             {
                 "name": "Selanas",
@@ -1859,7 +1859,7 @@
     },
     {
         "name": "Wireframing placeholders",
-        "description": "中文翻译：线框图的内容占位符\n英文原文：Content placeholders for wireframe diagrams",
+        "description": "线框图的内容占位符",
         "authors": [
             {
                 "name": "xxxDeveloper",
@@ -1889,7 +1889,7 @@
     },
     {
         "name": "2022 - GANTT",
-        "description": "中文翻译：每周一周，gantt 2022。最好激活网格。\n英文原文：GANTT for 2022, week by week. Best with grid activated.",
+        "description": "每周一周，gantt 2022。最好激活网格。",
         "authors": [
             {
                 "name": "emmanuel",
@@ -1910,7 +1910,7 @@
     },
     {
         "name": "Network elements",
-        "description": "中文翻译：几个通用的网络元素图标。\n英文原文：Several common network element icons.",
+        "description": "几个通用的网络元素图标。",
         "authors": [
             {
                 "name": "samu_x86",
@@ -1935,7 +1935,7 @@
     },
     {
         "name": "Message Queue components",
-        "description": "中文翻译：消息队列图的组件（例如IBM MQ）\n英文原文：Components for Message Queue diagrams (such as for IBM MQ)",
+        "description": "消息队列图的组件（例如IBM MQ）",
         "authors": [
             {
                 "name": "Andrew Ruan",
@@ -1961,7 +1961,7 @@
     },
     {
         "name": "Electrical Engineering",
-        "description": "中文翻译：包含为AC系统开发一线图的最常见组件。还有更多。\n英文原文：Contains the most common components to develop one-line diagrams for AC Systems. More to come.",
+        "description": "包含为AC系统开发一线图的最常见组件。还有更多。",
         "authors": [
             {
                 "name": "Ris Jain",
@@ -1996,7 +1996,7 @@
     },
     {
         "name": "Retail peripherals",
-        "description": "中文翻译：零售点销售点外围设备的集合。\n英文原文：A collection of retail point of sale peripherals.",
+        "description": "零售点销售点外围设备的集合。",
         "authors": [
             {
                 "name": "esteevens",
@@ -2019,7 +2019,7 @@
     },
     {
         "name": "Fibre Network",
-        "description": "中文翻译：有用的光纤网络资产\n英文原文：Useful Fibre Network Assets",
+        "description": "有用的光纤网络资产",
         "authors": [
             {
                 "name": "FibreNinja",
@@ -2042,7 +2042,7 @@
     },
     {
         "name": "Biology",
-        "description": "中文翻译：生物图库\n英文原文：A library of biology diagrams",
+        "description": "生物图库",
         "authors": [
             {
                 "name": "Sanketh",
@@ -2066,7 +2066,7 @@
     },
     {
         "name": "Valentine's Day",
-        "description": "中文翻译：情人节集中精力充满了心灵，爱和熊。\n英文原文：Valentine's Day focused library full of hearts, love, and bears.",
+        "description": "情人节集中精力充满了心灵，爱和熊。",
         "authors": [
             {
                 "name": "Excalidraw Team",
@@ -2093,7 +2093,7 @@
     },
     {
         "name": "Computer parts",
-        "description": "中文翻译：计算机硬件和外围设备\n英文原文：Computer hardware and peripherals",
+        "description": "计算机硬件和外围设备",
         "authors": [
             {
                 "name": "Bruno Rocha",
@@ -2121,7 +2121,7 @@
     },
     {
         "name": "secure_shell",
-        "description": "中文翻译：文件传输\n英文原文：file transfers",
+        "description": "文件传输",
         "authors": [
             {
                 "name": "Kishore",
@@ -2144,7 +2144,7 @@
     },
     {
         "name": "Data sources",
-        "description": "中文翻译：数据源，协议，API和接收器-USB，电子邮件，FTP，KAFKA，GRAPHQL，数据库，静止接口\n英文原文：Data sources, protocols, apis, and sinks - USB, email, FTP, kafka, GraphQL, databases, RESTful interfaces",
+        "description": "数据源，协议，API和接收器-USB，电子邮件，FTP，KAFKA，GRAPHQL，数据库，静止接口",
         "authors": [
             {
                 "name": "Kishore",
@@ -2170,7 +2170,7 @@
     },
     {
         "name": "Algorithms and Data Structures (Arrays, Matrices, Trees ...)",
-        "description": "中文翻译：与算法和数据结构（包括树）有关的所有事物的图形库。\n英文原文：A drawing library for all things related to Algorithms and Data Structures (including Trees).",
+        "description": "与算法和数据结构（包括树）有关的所有事物的图形库。",
         "authors": [
             {
                 "name": "intradeus",
@@ -2212,7 +2212,7 @@
     },
     {
         "name": "Barotrauma",
-        "description": "中文翻译：Barotrauma游戏的内部项目https://barotraumagame.com/\n英文原文：Interior items for the barotrauma game https://barotraumagame.com/",
+        "description": "Barotrauma游戏的内部项目https://barotraumagame.com/",
         "authors": [
             {
                 "name": "Daniel Perez Alvarez",
@@ -2259,7 +2259,7 @@
     },
     {
         "name": "DS visualizations",
-        "description": "中文翻译：这是我对DS概念的可视化。我听说\n还可以享受黑曜石和Excalidraw。所以..将其c：\n英文原文：Here is my visualizations for DS concepts. I heard that DSists \nalso enjoy obsidian and excalidraw. So.. Take it c:",
+        "description": "这是我对DS概念的可视化。我听说\n还可以享受黑曜石和Excalidraw。所以..将其c：",
         "authors": [
             {
                 "name": "Andrew Epif",
@@ -2281,7 +2281,7 @@
     },
     {
         "name": "Racks and Servers / Components",
-        "description": "中文翻译：数据中心布局和服务器 /组件文档的快速图\n英文原文：Quick diagrams for datacenter layout and server / component documentation",
+        "description": "数据中心布局和服务器 /组件文档的快速图",
         "authors": [
             {
                 "name": "Jorge Godoy",
@@ -2306,7 +2306,7 @@
     },
     {
         "name": "Office Items",
-        "description": "中文翻译：日常办公项目的集合。\n英文原文：A collection of everyday office items.",
+        "description": "日常办公项目的集合。",
         "authors": [
             {
                 "name": "Robin Müller",
@@ -2343,7 +2343,7 @@
     },
     {
         "name": "Boardgame",
-        "description": "中文翻译：骰子和其他物体可以在棋盘游戏中帮助\n英文原文：Dice and other objects to help in boardgames",
+        "description": "骰子和其他物体可以在棋盘游戏中帮助",
         "authors": [
             {
                 "name": "pocomane",
@@ -2373,7 +2373,7 @@
     },
     {
         "name": "Circuit Components",
-        "description": "中文翻译：电路组件的集合，用于易于电路图。\n英文原文：A collection of circuit components for easy circuit diagramming.",
+        "description": "电路组件的集合，用于易于电路图。",
         "authors": [
             {
                 "name": "Marc Powell",
@@ -2417,7 +2417,7 @@
     },
     {
         "name": "HTML input elements",
-        "description": "中文翻译：APP线框的基本HTML输入元素。元素包括类型：按钮，编号，日期，复选框：检查：不确定：未检查，切换开关，收音机，选择和一个带有加号的动作button\n英文原文：Basic HTML input elements for app wireframes. Elements include types: button, number, date, checkbox :checked :indeterminate :not checked, toggle switch, radio, select and an actionbutton with a plus",
+        "description": "APP线框的基本HTML输入元素。元素包括类型：按钮，编号，日期，复选框：检查：不确定：未检查，切换开关，收音机，选择和一个带有加号的动作button",
         "authors": [
             {
                 "name": "marwinburesch",
@@ -2445,7 +2445,7 @@
     },
     {
         "name": "bpmn",
-        "description": "中文翻译：BPMN图的图标\n英文原文：icon of bpmn diagram",
+        "description": "BPMN图的图标",
         "authors": [
             {
                 "name": "Aoustin Frederic",
@@ -2499,7 +2499,7 @@
     },
     {
         "name": "Azure Network",
-        "description": "中文翻译：来自Azure门户的所有最常见的Azure网络图标\n英文原文：All of the most common Azure network icons from the Azure portal",
+        "description": "来自Azure门户的所有最常见的Azure网络图标",
         "authors": [
             {
                 "name": "Gordon Howes",
@@ -2548,7 +2548,7 @@
     },
     {
         "name": "Azure Containers",
-        "description": "中文翻译：来自Azure门户的最常见的Azure容器图标的收集。\n英文原文：Collection of the most common Azure Container icons from the Azure portal.",
+        "description": "来自Azure门户的最常见的Azure容器图标的收集。",
         "authors": [
             {
                 "name": "Gordon Howes",
@@ -2574,7 +2574,7 @@
     },
     {
         "name": "Azure Storage",
-        "description": "中文翻译：来自Azure门户的最常见的Azure存储图标\n英文原文：Most common Azure storage icons from the Azure portal",
+        "description": "来自Azure门户的最常见的Azure存储图标",
         "authors": [
             {
                 "name": "Go",
@@ -2607,7 +2607,7 @@
     },
     {
         "name": "Azure Compute",
-        "description": "中文翻译：来自Azure门户的所有最常见的Azure计算图标\n英文原文：All the most common Azure compute icons from the Azure portal",
+        "description": "来自Azure门户的所有最常见的Azure计算图标",
         "authors": [
             {
                 "name": "Gordon Howes",
@@ -2644,7 +2644,7 @@
     },
     {
         "name": "Azure General",
-        "description": "中文翻译：来自Azure门户的所有Azure一般项目\n英文原文：All the Azure General items from the Azure Portal",
+        "description": "来自Azure门户的所有Azure一般项目",
         "authors": [
             {
                 "name": "Gordon Howes",
@@ -2683,7 +2683,7 @@
     },
     {
         "name": "Dart and Flutter icons",
-        "description": "中文翻译：DART和FLUTTER图标可用于excalidraw上的图纸！\n英文原文：Dart and Flutter icons to use for your drawings on excalidraw !\r\n",
+        "description": "DART和FLUTTER图标可用于excalidraw上的图纸！",
         "authors": [
             {
                 "name": "David",
@@ -2705,7 +2705,7 @@
     },
     {
         "name": "Deep learning",
-        "description": "中文翻译：深度学习\n英文原文：Deep learning",
+        "description": "深度学习",
         "authors": [
             {
                 "name": "Yuelfei.wu",
@@ -2737,7 +2737,7 @@
     },
     {
         "name": "Despair",
-        "description": "中文翻译：“看看我的作品，你们强大，绝望！”\n英文原文：\"Look on my works, ye Mighty, and despair!\"",
+        "description": "“看看我的作品，你们强大，绝望！”",
         "authors": [
             {
                 "name": "dwelle",
@@ -2767,7 +2767,7 @@
     },
     {
         "name": "Coordinates",
-        "description": "中文翻译：坐标，他们中的很多\n英文原文：Coordinates, the lot of them",
+        "description": "坐标，他们中的很多",
         "authors": [
             {
                 "name": "TvoozMagnificent",
@@ -2791,7 +2791,7 @@
     },
     {
         "name": "Google Icons",
-        "description": "中文翻译：所有Google Cloud平台和Google Workspace产品的图标。这些图标是从Google体系结构图纸工具（https://googleclecloudcheatsheet.withgoogle.com/architecture）中提取的，放大和概述 - 使其从库视图中可读。该库中包含所有独特的图标。该库是按字母顺序排列的。\n英文原文：Icons for all Google Cloud Platform and Google Workspace products. The icons were extracted from Google Architecture Drawing Tool (https://googlecloudcheatsheet.withgoogle.com/architecture), enlarged and outlined - making them readable from the library view. All unique icons found were included in this library. The library was ordered alphabetically.",
+        "description": "所有Google Cloud平台和Google Workspace产品的图标。这些图标是从Google体系结构图纸工具（https://googleclecloudcheatsheet.withgoogle.com/architecture）中提取的，放大和概述 - 使其从库视图中可读。该库中包含所有独特的图标。该库是按字母顺序排列的。",
         "authors": [
             {
                 "name": "Marcus Guidoti",
@@ -2950,7 +2950,7 @@
     },
     {
         "name": "Original Google Architecture Icons",
-        "description": "中文翻译：所有Google云平台的原始体系结构图标和Google架构图纸工具（https://googleclecloudcheatsheet.withgoogle.com/architecture）的原始体系结构图标。该库中包含所有独特的图标。该库是按字母顺序排列的。\n英文原文：Original Architecture icons for all Google Cloud Platform and Google Workspace products from Google Architecture Drawing Tool (https://googlecloudcheatsheet.withgoogle.com/architecture). All unique icons found were included in this library. The library was ordered alphabetically.",
+        "description": "所有Google云平台的原始体系结构图标和Google架构图纸工具（https://googleclecloudcheatsheet.withgoogle.com/architecture）的原始体系结构图标。该库中包含所有独特的图标。该库是按字母顺序排列的。",
         "authors": [
             {
                 "name": "Marcus Guidoti",
@@ -3109,7 +3109,7 @@
     },
     {
         "name": "Network locations",
-        "description": "中文翻译：网络宏设计的位置。该图书馆允许代表主要的公司办公室 /总部，办公室，城市，房屋和数据中心。\n英文原文：Locations for network macro designs. This library allows for representing main corporate offices / headquarters, offices, cities, houses and datacenters.",
+        "description": "网络宏设计的位置。该图书馆允许代表主要的公司办公室 /总部，办公室，城市，房屋和数据中心。",
         "authors": [
             {
                 "name": "Jorge Godoy",
@@ -3134,7 +3134,7 @@
     },
     {
         "name": "Make your calendar",
-        "description": "中文翻译：每个月都有一个模板。对于一年的销售者，您要做的就是在一年中的每个月：1）复制模板月2）UNGROUP 3）重命名为“月标题” 4）删除Extra Extral第5天5）重组。包括2022日历的样本。\n英文原文：There is a template for every month. For making clender of an year all you have to do, for each month in the year: 1) copy the template month 2) ungroup 3) rename the month header 4) delete extra days 5) regroup. A sample 2022 calendar included.",
+        "description": "每个月都有一个模板。对于一年的销售者，您要做的就是在一年中的每个月：1）复制模板月2）UNGROUP 3）重命名为“月标题” 4）删除Extra Extral第5天5）重组。包括2022日历的样本。",
         "authors": [
             {
                 "name": "Surya Teja Venteddu",
@@ -3162,7 +3162,7 @@
     },
     {
         "name": "Internet Service providers",
-        "description": "中文翻译：互联网服务提供商的徽标\n英文原文：Logos of internet service providers",
+        "description": "互联网服务提供商的徽标",
         "authors": [
             {
                 "name": "tcukdias",
@@ -3189,7 +3189,7 @@
     },
     {
         "name": "Banners",
-        "description": "中文翻译：横幅的收集足够大于文字。\n英文原文：Collection of banners large enough for text.",
+        "description": "横幅的收集足够大于文字。",
         "authors": [
             {
                 "name": "SketchingDev",
@@ -3216,7 +3216,7 @@
     },
     {
         "name": "C4 Architecture",
-        "description": "中文翻译：C4 Simon的棕色概念元素基于https://c4model.com/\n英文原文：C4 Simon's Brown concept elements based on https://c4model.com/",
+        "description": "C4 Simon的棕色概念元素基于https://c4model.com/",
         "authors": [
             {
                 "name": "Dmitry Burnyshev",
@@ -3246,7 +3246,7 @@
     },
     {
         "name": "IT Tools Logos",
-        "description": "中文翻译：该库包含来自Excalidraw库中仍缺少的不同用途工具的徽标。\n英文原文：This library contains logos from tools of different purposes that are still missing in Excalidraw library.",
+        "description": "该库包含来自Excalidraw库中仍缺少的不同用途工具的徽标。",
         "authors": [
             {
                 "name": "Marcus Guidoti",
@@ -3271,7 +3271,7 @@
     },
     {
         "name": "Architecture diagram components",
-        "description": "中文翻译：建筑图的常见组件集合。\n英文原文：Collection of common components for architecture diagrams.",
+        "description": "建筑图的常见组件集合。",
         "authors": [
             {
                 "name": "Anna Pastushko",
@@ -3302,7 +3302,7 @@
     },
     {
         "name": "Comms Platform Icons",
-        "description": "中文翻译：各种通信平台的图标\n英文原文：Icons of various comms platforms",
+        "description": "各种通信平台的图标",
         "authors": [
             {
                 "name": "Adam K Dean",
@@ -3328,7 +3328,7 @@
     },
     {
         "name": "PRINTERS",
-        "description": "中文翻译：我有一些打印机图标。\r\n将来，它会充满打印机和品牌的类型\n英文原文：There's some printers icon I worked on.\r\nIt's gonna be full of type of printers and brand in the future I promess",
+        "description": "我有一些打印机图标。\r\n将来，它会充满打印机和品牌的类型",
         "authors": [
             {
                 "name": "KRUSTValentin",
@@ -3351,7 +3351,7 @@
     },
     {
         "name": "Microsoft Apps",
-        "description": "中文翻译：Microsoft Power Platform和Office 365应用程序的图标集合。\n英文原文：A collection of icons for Microsoft's Power Platform and Office 365 apps.",
+        "description": "Microsoft Power Platform和Office 365应用程序的图标集合。",
         "authors": [
             {
                 "name": "Zesty-Lemur",
@@ -3379,7 +3379,7 @@
     },
     {
         "name": "micro",
-        "description": "中文翻译：微控制器形式\n英文原文：microcontroller form",
+        "description": "微控制器形式",
         "authors": [
             {
                 "name": "amelia",
@@ -3400,7 +3400,7 @@
     },
     {
         "name": "Playing cards",
-        "description": "中文翻译：适合法国的扑克牌王牌\n英文原文：French-suited playing card aces",
+        "description": "适合法国的扑克牌王牌",
         "authors": [
             {
                 "name": "Schiriki",
@@ -3425,7 +3425,7 @@
     },
     {
         "name": "some-handdrawn-signs",
-        "description": "中文翻译：一些有用的手绘标志，丑陋和不完美。\n英文原文：Some useful handdrawn signs, ugly and imperfect as they should be.",
+        "description": "一些有用的手绘标志，丑陋和不完美。",
         "authors": [
             {
                 "name": "Marc",
@@ -3447,7 +3447,7 @@
     },
     {
         "name": "AWS Architecture Icons",
-        "description": "中文翻译：AWS架构图标\n英文原文：AWS Architecture Icons",
+        "description": "AWS架构图标",
         "authors": [
             {
                 "name": "Anna Pastushko",
@@ -3654,7 +3654,7 @@
     },
     {
         "name": "UML Library: Activity Diagram",
-        "description": "中文翻译：符合统一建模语言（UML）规则的任何有兴趣创建活动图的人的Excalidraw。\r\n免责声明：这是一组最常用的元素（我认为）。\n英文原文：An excalidraw for any person interested in creating Activity Diagram in accordance with rules of Unified Modelling Language (UML).\r\nDisclaimer: This is the set of most-frequently used elements (in my opinion). ",
+        "description": "符合统一建模语言（UML）规则的任何有兴趣创建活动图的人的Excalidraw。\r\n免责声明：这是一组最常用的元素（我认为）。",
         "authors": [
             {
                 "name": "Krzysztof Koper",
@@ -3690,7 +3690,7 @@
     },
     {
         "name": "Risk based Test Strategy",
-        "description": "中文翻译：运行基于风险的测试策略计划会议的组件。\n英文原文：Components to run Risk-based Test Strategy planning session.",
+        "description": "运行基于风险的测试策略计划会议的组件。",
         "authors": [
             {
                 "name": "eromanov",
@@ -3718,7 +3718,7 @@
     },
     {
         "name": "Data Flow",
-        "description": "中文翻译：用于数据流程图\n英文原文：For Data Flow diagrams",
+        "description": "用于数据流程图",
         "authors": [
             {
                 "name": "Wilian Martinez",
@@ -3742,7 +3742,7 @@
     },
     {
         "name": "Organization Chart",
-        "description": "中文翻译：组织图模板\n英文原文：Org chart template",
+        "description": "组织图模板",
         "authors": [
             {
                 "name": "Jorge Godoy",
@@ -3771,7 +3771,7 @@
     },
     {
         "name": "Basic UX/wireframing elements",
-        "description": "中文翻译：该库包含基本UX/线帧元素的不同变体，例如按钮，文本框，文本区域，复选框，下拉菜单，图像占位符等。\n英文原文：This library contains different variants of basic UX/wireframing elements such as buttons, text boxes, text areas, checkboxes, drop-down menus, image placeholders, etc. ",
+        "description": "该库包含基本UX/线帧元素的不同变体，例如按钮，文本框，文本区域，复选框，下拉菜单，图像占位符等。",
         "authors": [
             {
                 "name": "gabi.macakova",
@@ -3860,7 +3860,7 @@
     },
     {
         "name": "Webpage frames",
-        "description": "中文翻译：这些组件可以在为网页创建设计时使用以解释诸如此类的概念\r\n客户端渲染，服务器端渲染，静态站点生成器等。\r\n\r\n网页有三个版本或状态：\r\n\r\n加载 - 获取页面时。\r\n可查看 - 加载HTML（绘制）但尚未执行JS。\r\n交互式 - 加载HTML和JS并且页面完全交互。\n英文原文：These components can be used while creating design for web pages to explain the concepts like\r\nclient side rendering, server side rendering , static site generators etc.\r\n\r\nThere are three version or states of webpages:\r\n\r\nLoading - When Pages are being fetched.\r\nViewable - When HTML is loaded (painted) but JS in not executed yet.\r\nInteractive - When HTML and JS are loaded and page is fully interactive.",
+        "description": "这些组件可以在为网页创建设计时使用以解释诸如此类的概念\r\n客户端渲染，服务器端渲染，静态站点生成器等。\r\n\r\n网页有三个版本或状态：\r\n\r\n加载 - 获取页面时。\r\n可查看 - 加载HTML（绘制）但尚未执行JS。\r\n交互式 - 加载HTML和JS并且页面完全交互。",
         "authors": [
             {
                 "name": "dhaval_godwani",
@@ -3883,7 +3883,7 @@
     },
     {
         "name": "Organic Chemistry Basics",
-        "description": "中文翻译：创建有机分子的基本构件。请注意，单个元素（C，O，S等）背后有一个白色圆圈，因此请确保这些图片在最前沿的层以更加美观的方式叠加在角落的顶部。\n英文原文：Basic building blocks for creating organic molecules. Note that there is a white circle behind the individual elements (C, O, S, etc...) so make sure these pictures are on the forefront layer to overlay them on top of corners in a more aesthetically pleasing way.",
+        "description": "创建有机分子的基本构件。请注意，单个元素（C，O，S等）背后有一个白色圆圈，因此请确保这些图片在最前沿的层以更加美观的方式叠加在角落的顶部。",
         "authors": [
             {
                 "name": "Thomas Szaktilla",
@@ -3930,7 +3930,7 @@
     },
     {
         "name": "Macroeconomics",
-        "description": "中文翻译：基本的宏观经济学图，总需求曲线变化\n英文原文：Basic macroeconomics graphs with changes in the Aggregated demand curves",
+        "description": "基本的宏观经济学图，总需求曲线变化",
         "authors": [
             {
                 "name": "Econ.graphs",
@@ -3954,7 +3954,7 @@
     },
     {
         "name": "Common Home Network Basics",
-        "description": "中文翻译：在家庭实验室 /网络中找到的常见项目：网络交换机，文件文件夹，服务器，安全摄像机，接入点，云，wifi符号，无线路由器\n英文原文：Common items found in a Home Lab / Network: Network Switch, File Folder, Server, Security Camera, Access Point, Cloud, Wifi Symbol, Wireless Router",
+        "description": "在家庭实验室 /网络中找到的常见项目：网络交换机，文件文件夹，服务器，安全摄像机，接入点，云，wifi符号，无线路由器",
         "authors": [
             {
                 "name": "DDay987",
@@ -3982,7 +3982,7 @@
     },
     {
         "name": "Domain-Driven Design",
-        "description": "中文翻译：事件暴风雨练习的默认粘性惯例\n英文原文：Default sticky convention for event storming exercises",
+        "description": "事件暴风雨练习的默认粘性惯例",
         "authors": [
             {
                 "name": "Carlos Espin",
@@ -4018,7 +4018,7 @@
     },
     {
         "name": "Traffic signs ⛔🛑",
-        "description": "中文翻译：流量标志是通常的，可以帮助您轻松地象征许多想法。\n英文原文：Traffic signs are commonly known and help you symbolize many ideas easily.",
+        "description": "流量标志是通常的，可以帮助您轻松地象征许多想法。",
         "authors": [
             {
                 "name": "Jürgen Kättnis",
@@ -4047,7 +4047,7 @@
     },
     {
         "name": "Picasso's Line Drawings",
-        "description": "中文翻译：将负担得起的Piassos作为线对象进入您的Excalidraw库。\n英文原文：Get affordable Piassos as line objects into your Excalidraw Library.",
+        "description": "将负担得起的Piassos作为线对象进入您的Excalidraw库。",
         "authors": [
             {
                 "name": "Jürgen Kättnis",
@@ -4076,7 +4076,7 @@
     },
     {
         "name": "Go Icons",
-        "description": "中文翻译：收集与GO编程语言有关的图标。\n英文原文：Collection of icons related to the Go programming language.",
+        "description": "收集与GO编程语言有关的图标。",
         "authors": [
             {
                 "name": "Ivan Pedrazas",
@@ -4098,7 +4098,7 @@
     },
     {
         "name": "Snowflake Iconography",
-        "description": "中文翻译：详尽的雪花DB图标清单\n英文原文：An exhaustive list of Snowflake DB icons",
+        "description": "详尽的雪花DB图标清单",
         "authors": [
             {
                 "name": "Patrick Cuba",
@@ -4172,7 +4172,7 @@
     },
     {
         "name": "code-essentials",
-        "description": "中文翻译：主要是与代码相关的图纸\n英文原文：Mostly code-related drawings",
+        "description": "主要是与代码相关的图纸",
         "authors": [
             {
                 "name": "jenkiskhan",
@@ -4194,7 +4194,7 @@
     },
     {
         "name": "Data Vault",
-        "description": "中文翻译：数据保险库建模中使用的常见人工制品\n英文原文：Common artefacts used in Data Vault modelling",
+        "description": "数据保险库建模中使用的常见人工制品",
         "authors": [
             {
                 "name": "Patrick Cuba",
@@ -4244,7 +4244,7 @@
     },
     {
         "name": "Misc Azure Icons",
-        "description": "中文翻译：我在其他库中找不到的更多蓝色图标\n英文原文：Some more Azure Icons that I have not found in other libraries",
+        "description": "我在其他库中找不到的更多蓝色图标",
         "authors": [
             {
                 "name": "Eugene Butan",
@@ -4271,7 +4271,7 @@
     },
     {
         "name": "Synths and FX",
-        "description": "中文翻译：某些工作室装备的基本图纸来管理路由，FX发送和回报等。\n英文原文：Basic drawings of some studio gear to manage routing, fx sends and returns etc.",
+        "description": "某些工作室装备的基本图纸来管理路由，FX发送和回报等。",
         "authors": [
             {
                 "name": "weareborg",
@@ -4297,7 +4297,7 @@
     },
     {
         "name": "Halloween",
-        "description": "中文翻译：万圣节主题设计的元素（贴纸）。\n英文原文：Elements (stickers) for Halloween-themed designs.",
+        "description": "万圣节主题设计的元素（贴纸）。",
         "authors": [
             {
                 "name": "gabi.macakova",
@@ -4356,7 +4356,7 @@
     },
     {
         "name": "Microsoft Azure cloud icons",
-        "description": "中文翻译：Microsoft非正式Azure图标线图\n英文原文：Microsoft unofficial Azure icon line drawings",
+        "description": "Microsoft非正式Azure图标线图",
         "authors": [
             {
                 "name": "Suresh Sethuramaswamy",
@@ -4395,7 +4395,7 @@
     },
     {
         "name": "science chemistry gcse",
-        "description": "中文翻译：GCSE化学主题1\n英文原文：gcse chem topic1\r\n",
+        "description": "GCSE化学主题1",
         "authors": [
             {
                 "name": "ella",
@@ -4419,7 +4419,7 @@
     },
     {
         "name": "Genealogy Essentials",
-        "description": "中文翻译：基本的家谱和家庭关系实体的集合。\n英文原文：A collection of basic Genealogy and family relations entities. ",
+        "description": "基本的家谱和家庭关系实体的集合。",
         "authors": [
             {
                 "name": "Kabir Singh Shekhawat",
@@ -4451,7 +4451,7 @@
     },
     {
         "name": "Web3 Crypto Solution Design v1",
-        "description": "中文翻译：Web3应用程序的解决方案设计符号，例如NFT集合或DAO。未来版本将扩展此库。\n英文原文：Symbols for solution design of web3 applications like NFT collections or DAO. Future versions will extend this library.",
+        "description": "Web3应用程序的解决方案设计符号，例如NFT集合或DAO。未来版本将扩展此库。",
         "authors": [
             {
                 "name": "Ibex Labs AG",
@@ -4481,7 +4481,7 @@
     },
     {
         "name": "Enterprise Integration Patterns",
-        "description": "中文翻译：Gregor Hohpe和Bobby Woolf的出色企业集成图案书中的图标大多完整代表\n英文原文：Mostly complete representation of the icons from the excellent Enterprise Integration Patterns book by Gregor Hohpe and Bobby Woolf",
+        "description": "Gregor Hohpe和Bobby Woolf的出色企业集成图案书中的图标大多完整代表",
         "authors": [
             {
                 "name": "Stuart Campbell",
@@ -4543,7 +4543,7 @@
     },
     {
         "name": "Body Builder Kit 1",
-        "description": "中文翻译：各种元素以建立具有独特特征的身体。包括几种变体和样式。\r\n\r\n选择元素并选择颜色。包括示例构图。与“前建筑商套件1”一起工作很棒\n英文原文：Various elements to build bodies with unique characteristics. Includes several variations and styles.\r\n\r\nPick elements and choose a color. Includes example compositions. Works great with \"Head Builder Kit 1\"",
+        "description": "各种元素以建立具有独特特征的身体。包括几种变体和样式。\r\n\r\n选择元素并选择颜色。包括示例构图。与“前建筑商套件1”一起工作很棒",
         "authors": [
             {
                 "name": "Gregor Adams",
@@ -4578,7 +4578,7 @@
     },
     {
         "name": "Character Kit 1",
-        "description": "中文翻译：由“健美器套件1”和“前建造套件1”构建的字符集合。使用不属于任何套件的其他装饰品。包括僵尸和蜘蛛侠角色。\n英文原文：A collection of characters built with \"Body Builder Kit 1\" and \"Head Builder Kit 1\". Uses additional decorations that are not part of any kit. Includes a Zombie and Spiderman character.",
+        "description": "由“健美器套件1”和“前建造套件1”构建的字符集合。使用不属于任何套件的其他装饰品。包括僵尸和蜘蛛侠角色。",
         "authors": [
             {
                 "name": "Gregor Adams",
@@ -4600,7 +4600,7 @@
     },
     {
         "name": "Female Heads Diverse",
-        "description": "中文翻译：一系列具有不同外观的女性头\n英文原文：A collection of female heads with diverse appearances",
+        "description": "一系列具有不同外观的女性头",
         "authors": [
             {
                 "name": "Gregor Adams",
@@ -4628,7 +4628,7 @@
     },
     {
         "name": "Head Builder Kit 1",
-        "description": "中文翻译：各种元素以建立具有独特特征的头部。包括几种变体和样式。\r\n\r\n选择元素并选择颜色。包括示例构图。\n英文原文：Various elements to build heads with unique characteristics. Includes several variations and styles.\r\n\r\nPick elements and choose a color. Includes example compositions.",
+        "description": "各种元素以建立具有独特特征的头部。包括几种变体和样式。\r\n\r\n选择元素并选择颜色。包括示例构图。",
         "authors": [
             {
                 "name": "Gregor Adams",
@@ -4697,7 +4697,7 @@
     },
     {
         "name": "Male Heads Diverse 1",
-        "description": "中文翻译：一系列男性头脑，外表各不相同。\n英文原文：A collection of male heads with diverse appearances.",
+        "description": "一系列男性头脑，外表各不相同。",
         "authors": [
             {
                 "name": "Gregor Adams",
@@ -4729,7 +4729,7 @@
     },
     {
         "name": "Music notation",
-        "description": "中文翻译：在工作人员和写节奏中写音乐的符号。 \r\n可用于自学或作为解释和建立演习和练习的教学援助。\n英文原文：Symbols for writing music in the staff and for writing rhythms. \r\nCan be used for self-study or as a teaching aid for explaining and set up drills and exercises.",
+        "description": "在工作人员和写节奏中写音乐的符号。 \r\n可用于自学或作为解释和建立演习和练习的教学援助。",
         "authors": [
             {
                 "name": "Andresiooo",
@@ -4772,7 +4772,7 @@
     },
     {
         "name": "Golang gophers",
-        "description": "中文翻译：Golang Gophers我们都喜欢为您的图纸增添趣味。\n英文原文：Golang gophers we all love to spice up your drawings.",
+        "description": "Golang Gophers我们都喜欢为您的图纸增添趣味。",
         "authors": [
             {
                 "name": "Gregory Vincic",
@@ -4798,7 +4798,7 @@
     },
     {
         "name": "Data Platform",
-        "description": "中文翻译：数据堆栈的图标，遵循现实 +简单风格。持续更新。让我知道您是否要添加任何图标。\n英文原文：Icon of Data Stack, following realistic + simplicity style. To be updated continously. Let me know if you want to add any icons.",
+        "description": "数据堆栈的图标，遵循现实 +简单风格。持续更新。让我知道您是否要添加任何图标。",
         "authors": [
             {
                 "name": "Chu Quang Bach",
@@ -4851,7 +4851,7 @@
     },
     {
         "name": "logic gates",
-        "description": "中文翻译：一些最常用的逻辑门\n英文原文：some of the most used logic gates",
+        "description": "一些最常用的逻辑门",
         "authors": [
             {
                 "name": "aaron diel",
@@ -4878,7 +4878,7 @@
     },
     {
         "name": "Tools",
-        "description": "中文翻译：一系列常见工具\n英文原文：A collection of common tools",
+        "description": "一系列常见工具",
         "authors": [
             {
                 "name": "Gregor Adams",
@@ -4907,7 +4907,7 @@
     },
     {
         "name": "Artem's icons",
-        "description": "中文翻译：概念板的图标\n英文原文：Icons for concept boards",
+        "description": "概念板的图标",
         "authors": [
             {
                 "name": "Artem Anufrij",
@@ -4949,7 +4949,7 @@
     },
     {
         "name": "Event Storming",
-        "description": "中文翻译：包括活动暴风雨会议的常见组件。 \r\n\r\n颜色稍微修改以使颜色友好\n英文原文：Includes the common components for an event storming session. \r\n\r\nThe colors are slightly modified to be color-blind friendly",
+        "description": "包括活动暴风雨会议的常见组件。 \r\n\r\n颜色稍微修改以使颜色友好",
         "authors": [
             {
                 "name": "FIDIL",
@@ -4976,7 +4976,7 @@
     },
     {
         "name": "Universal UI kit",
-        "description": "中文翻译：Universal UI，用于应用或Web的UX套件\n英文原文：Universal UI, UX kit for app or web",
+        "description": "Universal UI，用于应用或Web的UX套件",
         "authors": [
             {
                 "name": "Manuel Ernesto Garcia",
@@ -5018,7 +5018,7 @@
     },
     {
         "name": "Ultimate Frisbee",
-        "description": "中文翻译：终极飞盘。刻度的字段（WFDF）\n英文原文：Ultimate frisbee. Field to scale (WFDF)",
+        "description": "终极飞盘。刻度的字段（WFDF）",
         "authors": [
             {
                 "name": "Jgansaown",
@@ -5042,7 +5042,7 @@
     },
     {
         "name": "DnD 5e planning",
-        "description": "中文翻译：用于竞选计划的图标。计划能力检查，休息，笔记等。\n英文原文：Icons to use for campaign planning. Plan ability checks, rests, notes and more. ",
+        "description": "用于竞选计划的图标。计划能力检查，休息，笔记等。",
         "authors": [
             {
                 "name": "DemonDarakna",
@@ -5103,7 +5103,7 @@
     },
     {
         "name": "Kubernetes Icons Set",
-        "description": "中文翻译：这些图标是标准化Kubernetes架构图的一种方式。具有统一的体系结构图可提高可理解性。\n英文原文：These icons are a way to standardize Kubernetes architecture diagrams for presentation. Having uniform architecture diagrams improve understandibility.",
+        "description": "这些图标是标准化Kubernetes架构图的一种方式。具有统一的体系结构图可提高可理解性。",
         "authors": [
             {
                 "name": "Lowess",
@@ -5141,7 +5141,7 @@
     },
     {
         "name": "Wardley Mapping Canvas",
-        "description": "中文翻译：Wardley映射画布通过提供使映射成为逐步过程的结构来帮助新移民进行首次映射体验。\r\n沃德利（Wardley）映射画布是获得Creative Commons by-SA 4.0国际（CC BY-SA 4.0）的许可，并在同一许可下合并了Simon Wardley提供的概念。\n英文原文：The Wardley Mapping Canvas helps newcomers with their first mapping experiences by offering a structure that makes mapping a step-by-step process.\r\nThe Wardley Mapping Canvas is licensed Creative Commons BY-SA 4.0 International (CC BY-SA 4.0) and incorporates concepts provided courtesy of Simon Wardley under the same license.\r\n\r\n",
+        "description": "Wardley映射画布通过提供使映射成为逐步过程的结构来帮助新移民进行首次映射体验。\r\n沃德利（Wardley）映射画布是获得Creative Commons by-SA 4.0国际（CC BY-SA 4.0）的许可，并在同一许可下合并了Simon Wardley提供的概念。",
         "authors": [
             {
                 "name": "Mayank Gupta",
@@ -5172,7 +5172,7 @@
     },
     {
         "name": "Stick people",
-        "description": "中文翻译：简单的人。您可以通过深度选择和更换手臂（肘部/手）以及稍微移动眼睛和嘴来改变姿势\n英文原文：Simple Stick people. You can change postures by deep-select  and changing the arms (elbows/hands) and by moving slightly the eyes and mouth",
+        "description": "简单的人。您可以通过深度选择和更换手臂（肘部/手）以及稍微移动眼睛和嘴来改变姿势",
         "authors": [
             {
                 "name": "David Hurt",
@@ -5198,7 +5198,7 @@
     },
     {
         "name": "Simple Sticky Notes",
-        "description": "中文翻译：基于矩形和内部文本的简单粘性音符。好处是文本不是辅助层，因此矩形按文本缩放\n英文原文：Simplistic sticky notes based on Rectangles and inner texts. The benefit is that the text is not secondary layer, so the Rectangle scales by the text",
+        "description": "基于矩形和内部文本的简单粘性音符。好处是文本不是辅助层，因此矩形按文本缩放",
         "authors": [
             {
                 "name": "kleinpetr",
@@ -5224,7 +5224,7 @@
     },
     {
         "name": "Types and Values in JavaScript",
-        "description": "中文翻译：Dan Abramov的“ Just Just JavaScript”课程的类型和价值。\n英文原文：Types and values from Dan Abramov's \"Just JavaScript\" course.",
+        "description": "Dan Abramov的“ Just Just JavaScript”课程的类型和价值。",
         "authors": [
             {
                 "name": "molibden",
@@ -5254,7 +5254,7 @@
     },
     {
         "name": "Clouds",
-        "description": "中文翻译：主题持有人的云图标脑图\n英文原文：Cloud icons for topic holders in mind maps",
+        "description": "主题持有人的云图标脑图",
         "authors": [
             {
                 "name": "Dimitrios Fkliaras",
@@ -5277,7 +5277,7 @@
     },
     {
         "name": "ELK Stack",
-        "description": "中文翻译：处理麋鹿技术的图标。\n英文原文：The icons to handle ELK technologies.",
+        "description": "处理麋鹿技术的图标。",
         "authors": [
             {
                 "name": "Alexander Tsukanov",
@@ -5301,7 +5301,7 @@
     },
     {
         "name": "VMware Architecture Design",
-        "description": "中文翻译：创建很棒的VMware体系结构\n英文原文：Create awesome VMware architecture",
+        "description": "创建很棒的VMware体系结构",
         "authors": [
             {
                 "name": "odraghi",
@@ -5368,7 +5368,7 @@
     },
     {
         "name": "Kubernetes icons",
-        "description": "中文翻译：@kubernauts在Twitter上在圣诞节前夕2019年发布，此后广泛使用了@kubernauts在Twitter上发布的全套Kubernetes架构图标。\n英文原文：The full set of Kubernetes architecture icons, as published by @kubernauts on twitter on xmas eve 2019 and widely used since.",
+        "description": "@kubernauts在Twitter上在圣诞节前夕2019年发布，此后广泛使用了@kubernauts在Twitter上发布的全套Kubernetes架构图标。",
         "authors": [
             {
                 "name": "Nikola Markovic",
@@ -5461,7 +5461,7 @@
     },
     {
         "name": "3d coordinate systems + graphs",
-        "description": "中文翻译：简单的模板用于坐标系在数学类中使用的简单模板，而无需每次重新绘制它们。\n英文原文：Simple templates for coordinate systems to use in math class without having to redraw them every time.",
+        "description": "简单的模板用于坐标系在数学类中使用的简单模板，而无需每次重新绘制它们。",
         "authors": [
             {
                 "name": "Rick",
@@ -5485,7 +5485,7 @@
     },
     {
         "name": "Data processing",
-        "description": "中文翻译：在数据处理过程中可视化步骤的项目。\n英文原文：Items to visualize steps during data processing.",
+        "description": "在数据处理过程中可视化步骤的项目。",
         "authors": [
             {
                 "name": "Erlina",
@@ -5512,7 +5512,7 @@
     },
     {
         "name": "Stick Figures Collaboration",
-        "description": "中文翻译：棍子数字说明了各种协作概念。\n英文原文：Stick figures illustrating various collaboration concepts.",
+        "description": "棍子数字说明了各种协作概念。",
         "authors": [
             {
                 "name": "freepik",
@@ -5543,7 +5543,7 @@
     },
     {
         "name": "AWS Serverless Icons v2",
-        "description": "中文翻译：带有AWS无服务器服务图标的新库。此版本具有新的设计和更多服务。第一个版本现在是AWS架构图标集的一部分（https://libraries.excalidraw.com/#childishishgirl-aws-architecture-icons），它在AWS社区中非常受欢迎（下载超过50k次）。\n英文原文：A new library with icons for AWS serverless services. This version has a new design and more services. The first version is now part of the AWS Architecture Icons set (https://libraries.excalidraw.com/#childishgirl-aws-architecture-icons), and it's very popular with the AWS community (downloaded more than 50k times). ",
+        "description": "带有AWS无服务器服务图标的新库。此版本具有新的设计和更多服务。第一个版本现在是AWS架构图标集的一部分（https://libraries.excalidraw.com/#childishishgirl-aws-architecture-icons），它在AWS社区中非常受欢迎（下载超过50k次）。",
         "authors": [
             {
                 "name": "slobodan",
@@ -5586,7 +5586,7 @@
     },
     {
         "name": "Montessori Basic Grammar Symbols",
-        "description": "中文翻译：用于使用Montessori基本语法符号来教授语音的部分。大小用于XL大小的文本。\r\n\r\n*注意：对于在黑暗模式下的可见性，名词的符号并未填充黑色。如果您不使用深色模式，则可以将背景颜色更改为黑色（＃000000）。\n英文原文：For use in teaching parts of speech using the Montessori basic grammar symbols. Sized for use with XL-sized text.\r\n\r\n*Note: For visibility in dark mode, the symbol for nouns is not filled black. If you aren't using dark mode, you can change the background color to black (#000000).",
+        "description": "用于使用Montessori基本语法符号来教授语音的部分。大小用于XL大小的文本。\r\n\r\n*注意：对于在黑暗模式下的可见性，名词的符号并未填充黑色。如果您不使用深色模式，则可以将背景颜色更改为黑色（＃000000）。",
         "created": "2023-04-20",
         "updated": "2023-04-20",
         "version": 2,
@@ -5615,7 +5615,7 @@
     },
     {
         "name": "TTRPG Clocks",
-        "description": "中文翻译：桌面角色扮演游戏的时钟。\n英文原文：Clocks for Tabletop Roleplaying games.",
+        "description": "桌面角色扮演游戏的时钟。",
         "authors": [
             {
                 "name": "Nemeki",
@@ -5655,7 +5655,7 @@
     },
     {
         "name": "Football Icons",
-        "description": "中文翻译：代表一些常见足球符号的图标。\n英文原文：Icons representing some of the common football symbols.",
+        "description": "代表一些常见足球符号的图标。",
         "authors": [
             {
                 "name": "Paul Found",
@@ -5680,7 +5680,7 @@
     },
     {
         "name": "Microsoft 365 icons",
-        "description": "中文翻译：Microsoft 365，Microsoft Viva和相关徽标的Excalidraw副本。\r\n\r\n不是官方的Microsoft软件包。\n英文原文：Excalidraw replicas of common Microsoft 365, Microsoft Viva and related logos.\r\n\r\nNot an official Microsoft package.",
+        "description": "Microsoft 365，Microsoft Viva和相关徽标的Excalidraw副本。\r\n\r\n不是官方的Microsoft软件包。",
         "authors": [
             {
                 "name": "Wictor Wilén",
@@ -5736,7 +5736,7 @@
     },
     {
         "name": "ecommerce mobile ui",
-        "description": "中文翻译：Webkul热爱社区，为即将到来的移动电子商务项目提供快速的线框创建。\r\n线框 - 主页，产品页面，类别页面，购物车页，结帐页面，组件 - 产品视图，列表视图，选项卡栏，按钮，文本场，textarea，textarea，下拉列表等，图标 - 购物车，搜索文件夹，愿望清单，比较，比较，家庭，类别，类别，用户，文件夹，文件，返回，删除，共享等。\n英文原文：Webkul creates with love for the community, enabling quick wireframe creation for upcoming mobile e-commerce projects.\r\nWireframes - Homepage, Product Page, Category Page, Cart Page, Checkout Page, Components - product view, list view, tab bar, buttons, textfield, textarea, dropdown etc, Icons - cart, search folder, wishlist, compare, home, category, user, folder, file, back, delete, share,  etc.",
+        "description": "Webkul热爱社区，为即将到来的移动电子商务项目提供快速的线框创建。\r\n线框 - 主页，产品页面，类别页面，购物车页，结帐页面，组件 - 产品视图，列表视图，选项卡栏，按钮，文本场，textarea，textarea，下拉列表等，图标 - 购物车，搜索文件夹，愿望清单，比较，比较，家庭，类别，类别，用户，文件夹，文件，返回，删除，共享等。",
         "authors": [
             {
                 "name": "Webkul Software",
@@ -5830,7 +5830,7 @@
     },
     {
         "name": "Astronomical Symbols",
-        "description": "中文翻译：太阳，月亮，地球，行星和十二生肖的天文符号库。\n英文原文：A library of astronomical symbols for the sun, the moon, the earth, planets and the zodiac signs.",
+        "description": "太阳，月亮，地球，行星和十二生肖的天文符号库。",
         "authors": [
             {
                 "name": "Damitr",
@@ -5876,7 +5876,7 @@
     },
     {
         "name": "Elixir",
-        "description": "中文翻译：来自Elixir/Erlang家族的一些徽标\n英文原文：Some logos from the elixir/erlang family",
+        "description": "来自Elixir/Erlang家族的一些徽标",
         "authors": [
             {
                 "name": "r4z4",
@@ -5901,7 +5901,7 @@
     },
     {
         "name": "Fortinet",
-        "description": "中文翻译：非官方的Fortinet图标\n英文原文：Unofficial Fortinet icons",
+        "description": "非官方的Fortinet图标",
         "authors": [
             {
                 "name": "Justin Powell",
@@ -5928,7 +5928,7 @@
     },
     {
         "name": "IT icons",
-        "description": "中文翻译：所显示的图标专门用于IT系统体系结构的设计。该集合使您可以简单明了的方式介绍复杂概念的方案。\n英文原文：The shown icons are dedicated to the design of IT system architecture. The collection allows you to present the scheme of complex concepts in an easy and clear way.",
+        "description": "所显示的图标专门用于IT系统体系结构的设计。该集合使您可以简单明了的方式介绍复杂概念的方案。",
         "authors": [
             {
                 "name": "Mateusz Baran",
@@ -5995,7 +5995,7 @@
     },
     {
         "name": "Thicc arrow",
-        "description": "中文翻译：箭头形状可以通过多种适合不同用例进行修改。这是一个可调节的箭头，可用于加快某些图形表示。箭头和车身轴都可以通过双击形状来修改。\n英文原文：Arrow shape that can be modified in a number of ways to suit different use cases. This is an adjustable arrow that can be used to speed up certain graphic representations. Both the arrowhead and body shaft can be modified by double clicking on the shape.",
+        "description": "箭头形状可以通过多种适合不同用例进行修改。这是一个可调节的箭头，可用于加快某些图形表示。箭头和车身轴都可以通过双击形状来修改。",
         "authors": [
             {
                 "name": "Monty",
@@ -6017,7 +6017,7 @@
     },
     {
         "name": "Presentation bundle",
-        "description": "中文翻译：该库包含图形主题，子弹和常见的屏幕比率，在创建演示文稿时可以使用。\n英文原文：The library contains graphic themes, bullets, and common screen ratios that can be used when creating presentations.",
+        "description": "该库包含图形主题，子弹和常见的屏幕比率，在创建演示文稿时可以使用。",
         "authors": [
             {
                 "name": "gabi.macakova",
@@ -6056,7 +6056,7 @@
     },
     {
         "name": "DomainStoryTelling",
-        "description": "中文翻译：https://domainstorytelling.org/quick-start-guide\n英文原文：https://domainstorytelling.org/quick-start-guide",
+        "description": "https://domainstorytelling.org/quick-start-guide",
         "authors": [
             {
                 "name": "aocgame",
@@ -6082,7 +6082,7 @@
     },
     {
         "name": "Basic system design",
-        "description": "中文翻译：系统设计模板\n英文原文：System design templates",
+        "description": "系统设计模板",
         "authors": [
             {
                 "name": "pratheeshpm",
@@ -6108,7 +6108,7 @@
     },
     {
         "name": "FAIR web icons",
-        "description": "中文翻译：与语义网和公平原理有关的所有内容的图标和软件徽标\n英文原文：Icons and software logos for everything related to the semantic web and the FAIR principles",
+        "description": "与语义网和公平原理有关的所有内容的图标和软件徽标",
         "authors": [
             {
                 "name": "MSloep",
@@ -6131,7 +6131,7 @@
     },
     {
         "name": "Bullet Journal Trackers",
-        "description": "中文翻译：追踪器的习惯或心情\n英文原文：Trackers for your habit or your mood",
+        "description": "追踪器的习惯或心情",
         "authors": [
             {
                 "name": "BooknerdOnMars",
@@ -6152,7 +6152,7 @@
     },
     {
         "name": "Camunda Platform Icons",
-        "description": "中文翻译：Camunda平台堆栈和Camunda的图标。\r\n\r\n该库包括：Camunda徽标，建模器，表单，集成，连接器，工作流引擎，决策引擎，任务清单，操作和优化\n英文原文：Icons for the Camunda Platform stack and Camunda in general.\r\n\r\nThis library includes: Camunda Logos, Modeler, Forms, Integration, Connectors, Workflow Engine, Decision Engine, Tasklist, Operate and Optimize",
+        "description": "Camunda平台堆栈和Camunda的图标。\r\n\r\n该库包括：Camunda徽标，建模器，表单，集成，连接器，工作流引擎，决策引擎，任务清单，操作和优化",
         "authors": [
             {
                 "name": "Stefan Schultz",
@@ -6183,7 +6183,7 @@
     },
     {
         "name": "Christmas essentials",
-        "description": "中文翻译：该图书馆充满了对您的圣诞节主题设计必不可少的对象。\n英文原文：This library is full of objects essential for your Christmas-themed designs.",
+        "description": "该图书馆充满了对您的圣诞节主题设计必不可少的对象。",
         "authors": [
             {
                 "name": "gabi.macakova",
@@ -6229,7 +6229,7 @@
     },
     {
         "name": "Simple Characters",
-        "description": "中文翻译：简单字符的库\n英文原文：Library of simple characters",
+        "description": "简单字符的库",
         "authors": [
             {
                 "name": "Peter Hunter",
@@ -6280,7 +6280,7 @@
     },
     {
         "name": "DnD/TTRPG battle map creature tokens",
-        "description": "中文翻译：您可以在DND战斗地图上使用一堆令牌。不同的颜色和数字使它们很容易区分。设计非常抽象，因此它们适合许多类型的生物。\n英文原文：A bunch of tokens you can use on a DnD battle map. Different colours and numbers make them easily distinguishable. Design is quite abstract so they fit many types of creatures.",
+        "description": "您可以在DND战斗地图上使用一堆令牌。不同的颜色和数字使它们很容易区分。设计非常抽象，因此它们适合许多类型的生物。",
         "authors": [
             {
                 "name": "Maffen",
@@ -6300,7 +6300,7 @@
     },
     {
         "name": "Oracle Cloud Infrastructure Icons",
-        "description": "中文翻译：Oracle云基础结构架构的普通使用图标的库绘制了虚拟机，对象存储，自主数据库，路由表等。\n英文原文：A library of the common used icons for Oracle Cloud Infrastructure architecture draws like Virtual Machine, Object Storage, Autonomous Database, Route Table etc.\r\n",
+        "description": "Oracle云基础结构架构的普通使用图标的库绘制了虚拟机，对象存储，自主数据库，路由表等。",
         "authors": [
             {
                 "name": "Martin Berger",
@@ -6354,7 +6354,7 @@
     },
     {
         "name": "Kafka Streams Topology Design",
-        "description": "中文翻译：Kafka Streams拓扑设计是一个开放标准，专门用于清晰有效的Kafka溪流拓扑结构。\r\nKSTD涵盖了所有KAFKA流媒体DSL操作员，以及基本的基础设施和建筑构建块。\n英文原文：Kafka Streams Topology Design is an open standard dedicated to the clear and effective description and visualisation of Kafka Stream topologies.\r\nKSTD covers all Kafka Streams DSL operators, as well as essential infrastructure and architectural building blocks.",
+        "description": "Kafka Streams拓扑设计是一个开放标准，专门用于清晰有效的Kafka溪流拓扑结构。\r\nKSTD涵盖了所有KAFKA流媒体DSL操作员，以及基本的基础设施和建筑构建块。",
         "authors": [
             {
                 "name": "Hartmut Armbruster",
