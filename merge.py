@@ -19,7 +19,7 @@ def merge_descriptions(original_file, translated_file, output_file):
                         translated_desc = obj_translated[key]
 
                         # 创建新的描述格式
-                        combined_desc = f"中文翻译：{translated_desc}\n英文原文：{original_desc}"
+                        combined_desc = f"中文翻译：{translated_desc}\n\n英文原文：{original_desc}"
                         obj_original[key] = combined_desc
                     else:
                         combine_descriptions(obj_original[key], obj_translated.get(key, {}))
