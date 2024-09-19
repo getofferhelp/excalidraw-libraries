@@ -143,7 +143,7 @@ const APP_NAMES = {
 let appName = "";
 
 const getAppName = (referrer) => {
-  return "Gowithai画板";
+  return "GowithAI画板";
 };
 // -----------------------------------------------------------------------------
 
