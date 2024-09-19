@@ -232,7 +232,7 @@ const populateLibraryList = (filterQuery = "") => {
   const template = document.getElementById("template");
   const searchParams = new URLSearchParams(location.search);
   const referrer = escapeHTMLAttribute(
-    searchParams.get("referrer") || "https://excalidraw.com",
+    searchParams.get("referrer") || "https://draw.gowithai.help",
   );
   const appName = getAppName(referrer);
   const target = decodeURIComponent(
